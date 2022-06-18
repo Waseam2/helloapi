@@ -11,7 +11,7 @@ clang==5.0
 click==8.0.4
 contextlib2==21.6.0
 contextvars==2.4
-dataclasses==0.8
+dataclasses==0.6
 dill==0.3.4
 dnspython==2.2.1
 email-validator==1.2.1
