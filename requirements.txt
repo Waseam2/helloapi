@@ -1,4 +1,3 @@
-numpy
 absl-py
 anyio
 asgiref
@@ -61,7 +60,7 @@ starlette
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
-tensorflow-cpu
+tensorflow
 termcolor
 tomli
 typed-ast
