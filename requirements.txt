@@ -1,4 +1,4 @@
-numpy
+numpy==1.18
 absl-py==0.15.0
 anyio==3.6.1
 asgiref==3.4.1
