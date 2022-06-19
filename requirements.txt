@@ -60,6 +60,7 @@ starlette
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
+tensorflow
 termcolor
 tomli
 typed-ast
