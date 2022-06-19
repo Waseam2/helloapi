@@ -43,7 +43,6 @@ oauthlib
 opencv-python
 opt-einsum
 orjson
-pkg_resources
 platformdirs
 protobuf
 pyasn1
