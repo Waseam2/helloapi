@@ -60,7 +60,7 @@ starlette
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
-tensorflow
+tensorflow-cpu==2.6.0
 termcolor
 tomli
 typed-ast
